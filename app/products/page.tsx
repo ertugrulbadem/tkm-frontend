@@ -18,7 +18,7 @@ function Page() {
     "Özel Tasarımlar",
   ];
 
-  const handleSelect = (option) => {
+  const handleSelect = (option: any) => {
     setSelected(option);
     setOpen(false);
   };

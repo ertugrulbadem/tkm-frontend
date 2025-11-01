@@ -14,7 +14,7 @@ function ProductId() {
     "/images/beltconveyor.jpg",
   ];
 
-  const openModal = (index) => {
+  const openModal = (index: any) => {
     setCurrentIndex(index);
     setIsOpen(true);
   };
@@ -29,7 +29,7 @@ function ProductId() {
 
   // ESC ile kapatma
   useEffect(() => {
-    const handleKey = (e) => {
+    const handleKey = (e: any) => {
       if (e.key === "Escape") closeModal();
       if (e.key === "ArrowLeft") prevImage();
       if (e.key === "ArrowRight") nextImage();

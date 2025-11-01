@@ -1,5 +1,4 @@
 "use client";
-import Image from "next/image";
 import BrandsCard from "./BrandsCard";
 
 const data = [
