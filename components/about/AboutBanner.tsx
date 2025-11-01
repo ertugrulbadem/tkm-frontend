@@ -21,7 +21,7 @@ function AboutBanner() {
         {/* Right Text Section */}
         <div className="space-y-8">
           <h1 className="text-xl md:text-3xl font-extrabold text-white leading-tight">
-            1982'de kurulan TKM Makine, taşıma-kaldırma, yem, gıda ve çeltik makineleri sektöründe kaliteden ödün vermeyen anlayışıyla sektörün öncüsü olmuştur. 
+            1982&apos;de kurulan TKM Makine, taşıma-kaldırma, yem, gıda ve çeltik makineleri sektöründe kaliteden ödün vermeyen anlayışıyla sektörün öncüsü olmuştur. 
           </h1>
         </div>
       </div>

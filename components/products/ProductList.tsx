@@ -31,7 +31,7 @@ function ProductList() {
                     </Link>
             </div>
             <div className="border w-full p-3 rounded-2xl cursor-pointer backdrop-blur-lg hover:shadow-xl">
-                    <Link href="/products/123">
+                    <Link href="/products/321">
                     <Image src={"/images/beltconveyor.jpg"} alt="" width={200} height={200} className="rounded-2xl w-full h-[450px]"/>
                     <p className="mt-5 font-bold text-2xl">Packaging Machine</p>
                     <p className="text-muted-foreground font-medium text-sm">Ürünlerin güvenli, hızlı ve düzgün şekilde paketlenmesini sağlar; üretim hattındaki zaman kaybını ve hataları minimize eder.</p>
@@ -39,7 +39,7 @@ function ProductList() {
             </div>
 
             <div className="border w-full p-3 rounded-2xl cursor-pointer backdrop-blur-lg hover:shadow-xl">
-                <Link href="/products/456">
+                <Link href="/products/654">
                     <Image src={"/images/factory-workshop-interior-machines-glass-industry-background-process-production.jpg"} alt="" width={200} height={200} className="rounded-2xl w-full h-[450px]"/>
                     <p className="mt-5 font-bold text-2xl">Industrial Robot Arm</p>
                     <p className="text-muted-foreground font-medium text-sm">Otomasyon ile üretim hattında hız, verimlilik ve tekrar edilebilirlik sağlar; insan hatalarını ve maliyetleri azaltır.</p>
@@ -48,7 +48,7 @@ function ProductList() {
 
 
             <div className="border w-full p-3 rounded-2xl cursor-pointer backdrop-blur-lg hover:shadow-xl">
-                <Link href="/products/789">
+                <Link href="/products/987">
                     <Image src={"/images/industrial-metal-drill-machine-metalworking-workshop.jpg"} alt="" width={200} height={200} className="rounded-2xl w-full h-[450px]"/>
                     <p className="mt-5 font-bold text-2xl">Hydraulic Press</p>
                     <p className="text-muted-foreground font-medium text-sm">Malzemeleri presleyerek şekillendirir; yüksek basınç ve hassasiyetle üretim süreçlerinde dayanıklılık ve kalite sunar.</p>
