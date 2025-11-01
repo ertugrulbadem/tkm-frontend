@@ -209,7 +209,7 @@ const OffersPage = () => {
                   name="message"
                   value={formData.message}
                   onChange={handleInputChange}
-                  rows="5"
+                  rows={5}
                   className="w-full px-4 py-3 bg-gray-50 border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-cyan-400 focus:border-transparent transition-all resize-none"
                   placeholder="Mesajınızı buraya yazınız..."
                 ></textarea>
